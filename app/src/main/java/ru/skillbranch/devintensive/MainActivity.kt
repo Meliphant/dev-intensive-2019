@@ -1,4 +1,4 @@
-package io.github.meliphant.hometask2
+package ru.skillbranch.devintensive
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
@@ -9,4 +9,5 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
+
 }
